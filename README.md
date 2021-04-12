@@ -8,5 +8,5 @@ This repo consists of various data analysis projects which i had done learning t
 * 4.IPL Analysis
 
 # DataSets
-# [:link:](https://drive.google.com/drive/folders/12n6RFsYCdeKxUOt2XjzvggKNV4B8U7y8?usp=sharing)YouTube Analysis
+# [:dataset:](https://drive.google.com/drive/folders/12n6RFsYCdeKxUOt2XjzvggKNV4B8U7y8?usp=sharing)YouTube Analysis
 

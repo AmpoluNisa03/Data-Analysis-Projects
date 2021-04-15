@@ -9,7 +9,8 @@ This repo consists of various data analysis projects which i had done learning t
 * 5.IPL Analysis
 
 # DataSets
-[:books:](https://drive.google.com/drive/folders/12n6RFsYCdeKxUOt2XjzvggKNV4B8U7y8?usp=sharing)YouTube Analysis
-[:books:](https://drive.google.com/drive/folders/1IPrCsyQN-cJkijgvyFW_LlodVgkBUg3h?usp=sharing)Time Series Analysis
+* [:books:](https://drive.google.com/drive/folders/12n6RFsYCdeKxUOt2XjzvggKNV4B8U7y8?usp=sharing)YouTube Analysis
+* [:books:](https://drive.google.com/drive/folders/1IPrCsyQN-cJkijgvyFW_LlodVgkBUg3h?usp=sharing)Time Series Analysis
+
 
 

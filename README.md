@@ -13,7 +13,7 @@ This repo consists of various data analysis projects which i had done learning t
 # [:books:](https://drive.google.com/drive/folders/1IPrCsyQN-cJkijgvyFW_LlodVgkBUg3h?usp=sharing)Time Series Analysis
 # [:books:](https://drive.google.com/drive/folders/11-EoU9ngLZIDXTa0kDJ8BDMpX2y1PnEE?usp=sharing)Geospatial Analysis
 # [:books:](https://drive.google.com/drive/folders/1nx-8JpetAqu6-7Vwb832owGBaX-4vkk_?usp=sharing)Sales Data Analysis   
-# [:books:](https://drive.google.com/drive/folders/1eJN2qwMmycxWsZDlTxhSVvOcV4oMkLVu?usp=sharing)IPL Analysis
+
 
 
 

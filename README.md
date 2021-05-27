@@ -15,5 +15,3 @@ This repo consists of various data analysis projects which i had done learning t
 # [:books:](https://drive.google.com/drive/folders/1nx-8JpetAqu6-7Vwb832owGBaX-4vkk_?usp=sharing)Sales Data Analysis   
 # [:books:](https://drive.google.com/drive/folders/1eJN2qwMmycxWsZDlTxhSVvOcV4oMkLVu?usp=sharing)IPL Analysis
 
-
-

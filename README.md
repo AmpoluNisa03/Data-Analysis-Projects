@@ -9,7 +9,6 @@ This repo consists of various data analysis projects which i had done learning t
 * 5.IPL Analysis
 * 6.Uber Data Analysis
 * 7.Hotel Booking Data Analysis
-* 8.Covid-19 data analysis
 * 9.Financial data analysis
 
 
@@ -21,5 +20,4 @@ This repo consists of various data analysis projects which i had done learning t
 # [:books:](https://drive.google.com/drive/folders/1eJN2qwMmycxWsZDlTxhSVvOcV4oMkLVu?usp=sharing)IPL Analysis
 # [:books:](https://drive.google.com/drive/folders/1_xhCkIzTsliu-mbFDO9D-lW4TL-RbJ70?usp=sharing)Uber Data Analysis
 # [:books:](https://drive.google.com/drive/folders/164QfEKNt80I8KZxhlkaKMzD3OAFYNskS?usp=sharing)Hotel Booking Data Analysis
-# [:books:](https://drive.google.com/drive/folders/1bjrX6Wn0JvdVZPJ_-gX-Mcb5P_H3bMmE?usp=sharing)Covid-19 data analysis
 # [:books:](https://drive.google.com/drive/folders/14OmJENVp2KCSEN-IxsuL7YxmzzvUUhld?usp=sharing)Financial data analysis
